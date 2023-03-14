@@ -235,7 +235,7 @@ import {
     {
       name: "Summer Internship",
       description:
-        "This is food ordering front-end web page which you can order food.This is basis font-end web page using html and css. It also containes form for contacting. Lets make code together.",
+        "#1 Batch Rank in Summer Internship SIT_2025: Problem Solving and Programming with C & Data Structures and Algorithms by E-Box.In this program I learn how to solve problems efficiently.",
       tags: [
         {
           name: "C",
