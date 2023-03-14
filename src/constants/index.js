@@ -49,7 +49,7 @@ import {
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "React JS",
       icon: mobile,
     },
     {
@@ -122,7 +122,7 @@ import {
       ],
     },
     {
-      title: "React Native Developer",
+      title: "React.JS",
       company_name: "SELF",
       icon: tesla,
       iconBg: "#E6DEDD",
