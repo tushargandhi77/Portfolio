@@ -42,7 +42,7 @@ const About = () => {
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
         I'm a skilled Web Application Developer with experience in Java and JavaScript, and expertise in frameworks like React.js Node.js etc.
-        I'm a college student currently  studying in Batchlor of technology , I'm also expertise in different computer languages like java , c , c++ , Matlab , JavaScript. I'm  competetive Coder as well  thats solve real-world problems. Code: Never Forget the code...
+        I'm a college student currently  studying in Bachelor of technology , I'm also expertise in different computer languages like java , c , c++ , Matlab , JavaScript. I'm  competetive Coder as well  thats solve real-world problems. Code: Never Forget the code...
       </motion.p>
       <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service,index)=>(
