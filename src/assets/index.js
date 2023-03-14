@@ -34,6 +34,7 @@ import Tushar2 from "./Tushar2.png";
 import newsmonkey from "./newsmonkey.png"
 import textutil from "./textutil.png"
 import food from "./food.png"
+import ebox from "./ebox.png"
 
 export {
   food,
@@ -69,4 +70,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  ebox,
 };
