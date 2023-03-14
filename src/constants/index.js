@@ -26,6 +26,7 @@ import {
     food,
     newsmonkey,
     textutil,
+    ebox,
   } from "../assets";
   
   export const navLinks = [
@@ -232,20 +233,20 @@ import {
       source_code_link: "https://github.com/tushargandhi77/NewsApp",
     },
     {
-      name: "Food Website",
+      name: "Summer Internship",
       description:
         "This is food ordering front-end web page which you can order food.This is basis font-end web page using html and css. It also containes form for contacting. Lets make code together.",
       tags: [
         {
-          name: "HTML",
+          name: "C",
           color: "blue-text-gradient",
         },
         {
-          name: "CSS",
+          name: "DSA",
           color: "green-text-gradient",
         },
       ],
-      image: food,
+      image: ebox,
       source_code_link: "https://github.com/",
     },
   ];
