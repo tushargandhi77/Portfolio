@@ -247,7 +247,7 @@ import {
         },
       ],
       image: ebox,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/tushargandhi77/C-Programming/blob/main/Certificate.pdf",
     },
   ];
   
