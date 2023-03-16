@@ -237,6 +237,13 @@ import {
       description:
         "#1 Batch Rank in Summer Internship SIT_2025: Problem Solving and Programming with C & Data Structures and Algorithms by E-Box.In this program I learn how to solve problems efficiently.",
       tags: [
+          {
+
+          name: "1",
+
+          color: "pink-text-gradient",
+
+        },
         {
           name: "C",
           color: "blue-text-gradient",
