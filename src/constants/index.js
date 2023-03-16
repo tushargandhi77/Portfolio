@@ -239,7 +239,7 @@ import {
       tags: [
           {
 
-          name: "1",
+          name: "1st",
 
           color: "pink-text-gradient",
 
