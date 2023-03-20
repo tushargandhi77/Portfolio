@@ -58,7 +58,7 @@ import {
       icon: backend,
     },
     {
-      title: "Competetive Coder",
+      title: "Competitive Coder",
       icon: creator,
     },
   ];
