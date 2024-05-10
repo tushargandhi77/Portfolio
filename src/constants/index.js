@@ -27,6 +27,9 @@ import {
     newsmonkey,
     textutil,
     ebox,
+    sylo,
+    deep,
+    oasis,
   } from "../assets";
   
   export const navLinks = [
@@ -108,56 +111,47 @@ import {
   
   const experiences = [
     {
-      title: "Front-End Projects",
-      company_name: "SELF",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "November 2022",
-      points: [
-        "Start learning web development",
-        "Develop a front-end web page use HTML,CSS",
-        "Develop food ordering static webpage using html,css",
-        "Develop Gym form using html,css",
-        "Develop single page spotify clone using html,css,js",
-        "Develop a dynamic front-end webpage for Dance Acedemy using PUG,CSS,JS"
-      ],
-    },
-    {
-      title: "React.JS",
-      company_name: "SELF",
-      icon: tesla,
+      title: "Data Scientist",
+      company_name: "Syllogistek Systems Private Ltd.",
+      icon: sylo,
       iconBg: "#E6DEDD",
-      date: "Feb 2023",
+      date: "Jul 2023 - Aug 2023",
       points: [
-        "Develop Textuils single page Web-Application which analyse the text and sentances and perform Operations",
-        "Develop NewsApp using external API and React, which contains infinite scroll etc",
-        "Develop Front-end for Notes Web-Application which stores notes of the user",
+        "Projects:- QSAR FISH TOXICITY INDICATOR",
+        "Successfully completed a dynamic internship at Syllogistek, actively engaging in data science, machine learning, and deep learning projects over a rigorous four-week period.",
+        "Demonstrated proficiency in handling real-world datasets by effectively applying data preprocessing techniques, exploratory data analysis, and statistical analysis to derive meaningful insights.",
+        "Exhibited a strong understanding of machine learning concepts and algorithms, deploying them to develop predictive models and classification systems tailored to diverse business objectives.",
+        "Acquired practical experience in deep learning methodologies, including neural network architecture design, model training, and optimization, contributing to the advancement of cutting-edge projects",
+        "Consistently met daily tasks and project milestones, showcasing dedication, adaptability, and problem-solving skills in tackling challenges across various practice datasets, thereby enriching the portfolio with hands-on experience and tangible outcomes."
       ],
     },
     {
-      title: "Back-End Projects",
-      company_name: "SELF",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Mar 2023",
-      points: [
-        "Developing Backend for Dance Acedemy Website using express.js,node.js,mongoDB etc",
-        "Developing Backend for Notes Web-Application using node.js,mongoDB,express.js",
-        "Knowledge in DBMS,SQL,JAVA",
-      ],
-    },
-    {
-      title: "Competetive Coding",
-      company_name: "NONE",
-      icon: meta,
+      title: "Machine Learning Engineer",
+      company_name: "DeepLearning.AI",
+      icon: deep,
       iconBg: "#E6DEDD",
-      date: "Aug 2022",
+      date: "May 2023 - Aug 2023",
       points: [
-        "Well Skilled in C , C++ , JAVA , Matlab , python , JavaScript",
-        "practicing in different platform like CodeChef , HakerRank , LeetCode regularly.",
-        "2-star in CodeChef",
-        "5-star in HakerRank in Java Language",
-        "3-star in HakerRank in Problem Solving or Algorithms",
+        "Project:- Rover Landing using Reinforcement Learning, Image Classification",
+        "Completed an intensive course on machine learning engineering offered by deeplearning.ai, delving into various fundamental and advanced concepts in machine learning algorithms.",
+        "Acquired expertise in a range of machine learning algorithms including regression, random forest, logistic regression, neural networks, and reinforcement learning.",
+        "Applied theoretical knowledge to practical projects, gaining hands-on experience in two significant projects: image classification and rover landing simulation using reinforcement learning.",
+        "Worked extensively with diverse datasets to train, validate, and test machine learning models, enhancing skills in data preprocessing, feature engineering, and model evaluation.",
+        "Demonstrated problem-solving abilities and innovation through the successful completion of projects, showcasing adaptability and creativity in addressing challenges and achieving project objectives.",
+      ],
+    },
+    {
+      title: "Data Science and Machine Learning",
+      company_name: "Oasis Infobyte",
+      icon: oasis,
+      iconBg: "#383E56",
+      date: "Apr 2024 - May 2024",
+      points: [
+        "Engaged in a diverse array of tasks during an enriching internship at Oasis Infobyte, spanning data analysis, model implementation, and hyperparameter tuning across five distinct projects.",
+        "Successfully tackled the classic Iris flower classification problem, employing machine learning techniques to accurately classify iris species based on sepal and petal attributes. Conducted thorough data analysis, implemented machine learning models, and fine-tuned hyperparameters to achieve optimal classification performance.",
+        "Conducted in-depth analysis of unemployment data to extract meaningful insights and trends. Utilized statistical methods and machine learning algorithms to identify key factors influencing unemployment rates, facilitating informed decision-making and policy recommendations.",
+        "Developed a robust email spam detection system using machine learning algorithms to differentiate between spam and legitimate emails. Conducted extensive data preprocessing, implemented classification models, and fine-tuned hyperparameters to enhance detection accuracy and minimize false positives.",
+        " Leveraged machine learning techniques to predict car prices and forecast sales trends based on historical data. Conducted comprehensive data analysis, implemented regression models for price prediction, and utilized time series forecasting methods for sales prediction."
       ],
     },
   ];

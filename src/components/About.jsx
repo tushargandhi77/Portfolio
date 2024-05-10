@@ -41,15 +41,14 @@ const About = () => {
         variants={fadeIn("","",0.1,1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled Web Application Developer with experience in Java and JavaScript, and expertise in frameworks like React.js Node.js etc.
-        I'm a college student currently  studying in Bachelor of technology , I'm also expertise in different computer languages like java , c , c++ , Matlab , JavaScript. I'm  competetive Coder as well  thats solve real-world problems. Code: Never Forget the code...
+       I'm Tushar Gandhi, a data scientist and developer with 1 years of experience in the field. My journey in this exciting field has taken me through various projects and challenges, allowing me to hone my skills in data analysis, machine learning, software development, and more. I'm constantly learning and exploring new ways to harness data for meaningful insights and impactful solutions.
       </motion.p>
-      <div className='mt-20 flex flex-wrap gap-10'>
+      {/* <div className='mt-20 flex flex-wrap gap-10'>
         {services.map((service,index)=>(
           <ServiceCard key={service.title} index=
           {index} {...service} />
         ))}
-      </div>
+      </div> */}
     </>
   )
 }
