@@ -71,7 +71,7 @@ const Works = () => {
           variants={fadeIn("","",0.1,1)}
           className="mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]"
         >
-          Following projects Showcases of my skills through Web Applications. Each project is briefly described with links to code repository. It reflect my ability in development field,work with different technologies, and manage projects
+          Following projects Showcases of my skills through Data Science and  Web Applications. Each project is briefly described with links to code repository. It reflect my ability in data science and Development field, work with different technologies, and manage projects
         </motion.p>
       </div>
 

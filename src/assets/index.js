@@ -38,8 +38,23 @@ import ebox from "./ebox.png"
 import sylo from './sylo.jpg'
 import deep  from './deep.png'
 import oasis from './oasis.jpg'
+import python from './python.png'
+import tens from './tensorflow.jpg'
+import sk from './sk.png'
+import aeg from './aeg.png'
+import ic from './ic.png'
+import prism from './prism.png'
+import quora from './qqp.png'
+import we from './we.png'
+import Lib from './lm.png'
 
 export {
+  aeg,
+  ic,
+  prism,
+  quora,
+  we,
+  Lib,
   food,
   textutil,
   newsmonkey,
@@ -77,4 +92,7 @@ export {
   sylo,
   deep,
   oasis,
+  python,
+  tens,
+  sk,
 };
