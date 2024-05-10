@@ -35,6 +35,9 @@ import newsmonkey from "./newsmonkey.png"
 import textutil from "./textutil.png"
 import food from "./food.png"
 import ebox from "./ebox.png"
+import sylo from './sylo.jpg'
+import deep  from './deep.png'
+import oasis from './oasis.jpg'
 
 export {
   food,
@@ -71,4 +74,7 @@ export {
   jobit,
   tripguide,
   ebox,
+  sylo,
+  deep,
+  oasis,
 };
