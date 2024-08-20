@@ -47,6 +47,7 @@ import prism from './prism.png'
 import quora from './qqp.png'
 import we from './we.png'
 import Lib from './lm.png'
+import Readme from './readme.png'
 
 export {
   aeg,
@@ -94,5 +95,6 @@ export {
   oasis,
   python,
   tens,
+  Readme,
   sk,
 };

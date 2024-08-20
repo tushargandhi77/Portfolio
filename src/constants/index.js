@@ -39,6 +39,7 @@ import {
   quora,
   we,
   Lib,
+  Readme,
 } from "../assets";
 
 export const navLinks = [
@@ -121,6 +122,22 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "GenAI Intern",
+    company_name: "Syllogistek Systems Private Ltd.",
+    icon: sylo,
+    iconBg: "#E6DEDD",
+    date: "Jun 2024 - Aug 2024",
+    points: [
+      "Projects: Leaf Disease Detection, Next Word Prediction, Chat with PDF",
+      "Completed a specialized internship focused on Generative AI technologies, including Convolutional Neural Networks (CNN), Transformers, Long Short-Term Memory (LSTM) networks, and LangChain.",
+      "Developed and implemented CNN models for detecting leaf diseases, leveraging image processing and deep learning techniques to achieve accurate and reliable results.",
+      "Built a Next Word Prediction model using LSTM networks, demonstrating proficiency in natural language processing and sequence modeling for predictive text applications.",
+      "Created a Chat with PDF application, utilizing Transformers for document understanding and interaction, enhancing user experience with advanced AI-driven text analysis.",
+      "Gained hands-on experience with cutting-edge AI methodologies, contributing to innovative projects and expanding expertise in practical applications of generative and deep learning technologies."
+    ]
+  }
+,  
   {
     title: "Data Scientist",
     company_name: "Syllogistek Systems Private Ltd.",
@@ -217,6 +234,30 @@ const projects = [
     source_code_link: "https://github.com/tushargandhi77/Image-Captioning",
   },
   {
+    name: "ReadMeMaker",
+    description:
+      "A MERN stack application with Mongo , Firebase and Chakra UI for creating and customizing README files. Features include Google login, template sharing, and a built-in compiler for personal templates. Enhance collaboration and streamline documentation effortlessly.",
+    tags: [
+      {
+
+        name: "Firebase",
+
+        color: "pink-text-gradient",
+
+      },
+      {
+        name: "MERN",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "ChakraUI",
+        color: "green-text-gradient",
+      },
+    ],
+    image: Readme,
+    source_code_link: "https://github.com/tushargandhi77/WeFood",
+  },
+  {
     name: "Age Gender Emotion Prediction",
     description:
       "Utilized Flask server & deep learning to create a web platform predicting age, gender, & emotion from images. Revolutionizing tech interaction through AI advancement and interpretable.",
@@ -309,30 +350,7 @@ const projects = [
     image: prism,
     source_code_link: "https://github.com/razzivofficial/PrismLens",
   },
-  {
-    name: "We Food",
-    description:
-      "Created a React web app for food ordering and delivery. Seamlessly browse, order, and track deliveries for a convenient dining experience.Empowering users with intuitive UI, real-time order tracking, and secure payment options, ensuring a delightful dining journey.",
-    tags: [
-      {
 
-        name: "React",
-
-        color: "pink-text-gradient",
-
-      },
-      {
-        name: "MongoDB",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Node",
-        color: "green-text-gradient",
-      },
-    ],
-    image: we,
-    source_code_link: "https://github.com/tushargandhi77/WeFood",
-  },
 ];
 
 export { services, technologies, experiences, testimonials, projects };
